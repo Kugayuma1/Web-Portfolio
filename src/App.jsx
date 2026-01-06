@@ -13,10 +13,10 @@ export default function Portfolio() {
       tech: ["Godot", "GDScript", "Firebase"],
       github: "https://github.com/Kugayuma1/MindMotion-Godot",
       images: [
-        "/Home.png",
-        "/Complete.png",
-        "/Motion.png",
-        "/Students.png"
+        "Home.png",
+        "Complete.png",
+        "Motion.png",
+        "Students.png"
       ]
     },
     {
@@ -25,7 +25,7 @@ export default function Portfolio() {
       tech: ["HTML", "Javascript", "Chart.js", "Bootstrap"],
       github: "https://github.com/Kugayuma1/fcbdataviz",
       images:[
-        "/Twitter Trend.png"
+        "Twitter Trend.png"
       ]
     }
   ];
@@ -42,19 +42,19 @@ export default function Portfolio() {
       title: "National Skills Competitor",
       issuer: "TESDA Region IV-A",
       date: "August 2024",
-      image: "/TESDA_REGIONIVA.jpg"
+      image: "TESDA_REGIONIVA.jpg"
     },
     {
       title: "National Skills Competitor",
       issuer: "TESDA",
       date: "August 2024",
-      image: "/TESDA.jpg"
+      image: "TESDA.jpg"
     },
     {
       title: "Regional Skills Competitor",
       issuer: "TESDA Region IV-A",
       date: "December 2023",
-      image: "/REGIONAL_FIRST.jpg"
+      image: "REGIONAL_FIRST.jpg"
     },
     {
       title: "Regional Skills Competitor",
@@ -72,13 +72,13 @@ export default function Portfolio() {
       title: "Data Visualization Workshop",
       issuer: "Zuitt",
       date: "February 2025",
-      image: "/Zuitt.png"
+      image: "Zuitt.png"
     },
     { 
       title: "Data Visualization Workshop",
       issuer: "CSTC - School of Information Technology",
       date: "November 2025",
-      image: "/SYNTAX.jpg"
+      image: "SYNTAX.jpg"
     }
   ];
 
