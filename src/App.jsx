@@ -168,7 +168,7 @@ export default function Portfolio() {
               <Mail size={24} />
             </a>
           </div>
-          <a href="/Resume_John_Christopher_Feria.pdf" download className="px-8 py-3 bg-gradient-to-r from-purple-600 to-pink-600 rounded-full font-semibold hover:shadow-lg hover:shadow-purple-500/50 transition-all inline-block">
+          <a href="Resume_John_Christopher_Feria.pdf" download className="px-8 py-3 bg-gradient-to-r from-purple-600 to-pink-600 rounded-full font-semibold hover:shadow-lg hover:shadow-purple-500/50 transition-all inline-block">
             Download Resume
           </a>
         </div>
