@@ -98,7 +98,7 @@ export default function Portfolio() {
       <nav className="fixed top-0 w-full bg-slate-900/80 backdrop-blur-md z-50 border-b border-purple-500/20">
         <div className="max-w-10xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
-            <div className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
+            <div className="text-2xl sm:text-1xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
               &lt;John Christopher R. Feria/&gt;
             </div>
             
@@ -319,7 +319,7 @@ export default function Portfolio() {
       {/* Footer */}
       <footer className="py-8 px-4 sm:px-6 lg:px-8 bg-slate-900 border-t border-purple-500/20">
         <div className="max-w-10xl mx-auto text-center text-gray-400">
-          <p>&copy; 2025 John Christopher Feria. All Rights Reserved.</p>
+          <p>&copy; 2026 John Christopher Feria. All Rights Reserved.</p>
         </div>
       </footer>
     </div>
