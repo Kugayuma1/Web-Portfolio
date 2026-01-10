@@ -129,7 +129,7 @@ export default function Portfolio() {
           {/* Mobile Menu */}
           {mobileMenuOpen && (
             <div className="lg:hidden pb-4">
-              {['Home', 'About', 'Projects', 'Skills', 'Contact'].map((item) => (
+              {['Home', 'About', 'Projects', 'Skills', 'Certificates'].map((item) => (
                 <button
                   key={item}
                   onClick={() => scrollToSection(item.toLowerCase())}
