@@ -75,7 +75,7 @@ export default function Portfolio() {
       image: "Zuitt.png"
     },
     { 
-      title: "Data Visualization Workshop",
+      title: "ITSC2026: Capstone Project EXPO",
       issuer: "CSTC - School of Information Technology",
       date: "November 2025",
       image: "SYNTAX.jpg"
